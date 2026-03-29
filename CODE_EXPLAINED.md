@@ -119,8 +119,6 @@ Machine learning involves randomness in several places:
 - How cross-validation folds are assigned
 
 Setting a fixed seed means every run of the script produces **identical results**.
-This is essential for a portfolio project — your accuracy number should not change
-each time you run it.
 
 The number 42 has no special meaning; any integer works.
 
