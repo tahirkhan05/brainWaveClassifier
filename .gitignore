@@ -1,0 +1,11 @@
+# EDF data files — download from PhysioNet (see README)
+*.edf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
